@@ -1,4 +1,0 @@
-New edition
-Restore 
-restart 
-recheck
